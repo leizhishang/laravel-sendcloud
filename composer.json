@@ -15,7 +15,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Naux\\Mail\\": "src/"
+      "Leizhishang\\Mail\\": "src/"
     }
   },
   "extra": {
