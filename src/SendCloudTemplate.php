@@ -5,7 +5,7 @@
  * Date: 11/19/15
  * Time: 2:14 PM.
  */
-namespace Naux\Mail;
+namespace Leizhishang\Mail;
 
 class SendCloudTemplate
 {

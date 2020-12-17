@@ -1,5 +1,5 @@
 {
-  "name": "naux/sendcloud",
+  "name": "leizhishang/sendcloud",
   "license": "MIT",
   "authors": [
     {
@@ -20,7 +20,7 @@
   },
   "extra": {
     "laravel": {
-      "providers": ["Naux\\Mail\\SendCloudServiceProvider"]
+      "providers": ["Leizhishang\\Mail\\SendCloudServiceProvider"]
     }
   },
   "require-dev": {
